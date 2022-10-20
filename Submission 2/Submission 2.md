@@ -1,6 +1,6 @@
-#Group No : 6
+Group No : 6
 
-#Group Members :
+Group Members :
 
 Towhid Khan (18201035)
 
