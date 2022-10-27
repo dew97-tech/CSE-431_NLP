@@ -20,6 +20,7 @@ Native Format:
 https://lucid.app/lucidchart/c3aa5f1a-1801-4075-983b-593b72de1ec3/edit?viewport_loc=-339%2C-946%2C7426%2C3753%2C0_0&invitationId=inv_ce4c54e4-8e49-4c1b-a604-b4d0392740c2
 
 Name, Author, Edition, year and publisher of the Book:
+
 Speech and Language Processing
 Jurafsky
 3rd edition
