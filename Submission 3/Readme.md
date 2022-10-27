@@ -10,8 +10,6 @@ Md. Mahadi Hasan (18201062)
 
 Book Chapter Presentaion : https://youtu.be/JUh08uelrPk
 
-Link to unlisted youtube video:
-https://youtu.be/JUh08uelrPk
 
 Link to the Concept Map:
 
