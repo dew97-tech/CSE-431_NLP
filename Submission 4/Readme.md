@@ -1,6 +1,6 @@
-#Selected Topic : A Bangla SweetCoated Encoding Technique For Better Speeling Check
+Selected Topic : A Bangla SweetCoated Encoding Technique For Better Speeling Check
 
-#Overleaf : https://www.overleaf.com/read/ysmxgtdhsghx
+Overleaf : https://www.overleaf.com/read/ysmxgtdhsghx
 
 Conference login link for submitted paper:
 
