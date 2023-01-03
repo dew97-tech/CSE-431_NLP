@@ -1,6 +1,6 @@
-Selected Topic : A Bangla SweetCoated Encoding Technique For Better Speeling Check
+# Selected Topic : SweetCoat-2D: Two-Dimensional Bangla Spelling Correction and Suggestion Using Levenshtein Distance and String Matching Algorithm
 
-Overleaf : https://www.overleaf.com/read/ysmxgtdhsghx
+# Overleaf : https://www.overleaf.com/read/rrsjkrqmqwbk
 
 Conference login link for submitted paper:
 
