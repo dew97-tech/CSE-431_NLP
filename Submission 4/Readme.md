@@ -12,5 +12,7 @@ Conference URL: https://2023.ijcnn.org/
 
 Group Member :
 Md Mahadi Hasan - 18201062
+
 David Dew Mallick - 18201045
+
 Towhid Khan - 18201035
