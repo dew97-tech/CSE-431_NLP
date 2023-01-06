@@ -2,8 +2,15 @@
 
 # Overleaf : https://www.overleaf.com/read/rrsjkrqmqwbk
 
-Conference login link for submitted paper:
 
-Conference Name: 
+Conference login link for submitted paper: 
+https://edas.info/N30081
 
-Conference URL: 
+Conference Name: IJCNN
+
+Conference URL: https://2023.ijcnn.org/
+
+Group Member :
+Md Mahadi Hasan - 18201062
+David Dew Mallick - 18201045
+Towhid Khan - 18201035
